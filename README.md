@@ -44,9 +44,9 @@ Here are some of my key projects:
 ---
 
 ## 🔹 Certifications
- Cisco - Introduction to Cybersecurity 
- ISC2 - Certified in Cybersecurity
- TryHackMe - SOC Level 1
+- Cisco - Introduction to Cybersecurity 
+- ISC2 - Certified in Cybersecurity
+- TryHackMe - SOC Level 1
 
 ---
 
