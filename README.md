@@ -1,4 +1,4 @@
-# Analyst SOC Portfolio
+# SOC Analyst Portfolio
 
 Hi! I'm Patrik Vasovic , an aspiring Security Operations Center (SOC) Analyst with low experience in threat detection, incident response, and log analysis.  
 This portfolio showcases my projects, scripts, dashboards, and certifications in cybersecurity.
